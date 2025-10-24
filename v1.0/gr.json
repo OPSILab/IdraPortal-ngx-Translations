@@ -449,5 +449,18 @@
   "HOME_SEARCH": "Αναζήτηση",
   "PREVIEW_SIZE_TOO_LARGE": "Το μέγεθος προεπισκόπησης είναι πολύ μεγάλο. Παρακαλώ κατεβάστε το αρχείο για να το δείτε.",
   "NO_MODEL_TOOLS_FOUND": "Δεν βρέθηκαν μοντέλα/εργαλεία που να ταιριάζουν με τα φίλτρα σας",
-  "NO_DATA_SOURCES_FOUND": "Δεν βρέθηκαν πηγές δεδομένων που να ταιριάζουν με τα φίλτρα σας"
+  "NO_DATA_SOURCES_FOUND": "Δεν βρέθηκαν πηγές δεδομένων που να ταιριάζουν με τα φίλτρα σας",
+  "UPDATE": "Ενημέρωση",
+  "ADMIN_SPARQL_ACTIONS": "Ενέργειες",
+  "ADMIN_SPARQL_SEARCH_LABEL": "Αναζήτηση",
+  "TOGGLE_FILTERS": "Εμφάνιση φίλτρων",
+  "TOAST_MODEL_TOOL_ADDED": "Το μοντέλο/εργαλείο προστέθηκε με επιτυχία",
+  "TOAST_MODEL_TOOL_REMOVED_TITLE": "Το μοντέλο/εργαλείο αφαιρέθηκε",
+  "TOAST_MODEL_TOOL_REMOVED": "Το μοντέλο/εργαλείο αφαιρέθηκε με επιτυχία",
+  "CATALOGUES_TITLE": "Κατάλογοι",
+  "CATALOGUE_LIST_NAME": "Όνομα",
+  "CATALOGUE_LIST_TYPE": "Τύπος",
+  "CATALOGUE_LIST_MODIFY_CATALOGUE": "Επεξεργασία καταλόγου",
+  "CATALOGUE_LIST_SEARCH_LABEL": "Αναζήτηση καταλόγου",
+  "CATALOGUE_LIST_ADD_CATALOGUE": "Προσθήκη καταλόγου"
 }

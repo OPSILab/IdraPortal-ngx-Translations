@@ -449,5 +449,18 @@
   "HOME_SEARCH": "Search",
   "PREVIEW_SIZE_TOO_LARGE": "Preview size too large. Please download the file to view it.",
   "NO_MODEL_TOOLS_FOUND": "No model/tools found matching your filters",
-  "NO_DATA_SOURCES_FOUND": "No data sources found"
+  "NO_DATA_SOURCES_FOUND": "No data sources found",
+  "UPDATE": "Update",
+  "ADMIN_SPARQL_ACTIONS": "Actions",
+  "ADMIN_SPARQL_SEARCH_LABEL": "Search",
+  "TOGGLE_FILTERS": "Show Filters",
+  "TOAST_MODEL_TOOL_ADDED": "Model/Tool has been added successfully",
+  "TOAST_MODEL_TOOL_REMOVED_TITLE": "Model/Tool Removed",
+  "TOAST_MODEL_TOOL_REMOVED": "Model/Tool has been removed successfully",
+  "CATALOGUES_TITLE": "Catalogues",
+  "CATALOGUE_LIST_NAME": "Name",
+  "CATALOGUE_LIST_TYPE": "Type",
+  "CATALOGUE_LIST_MODIFY_CATALOGUE": "Edit catalogue",
+  "CATALOGUE_LIST_SEARCH_LABEL": "Search Catalogue",
+  "CATALOGUE_LIST_ADD_CATALOGUE": "Add catalogue"
 }

@@ -449,5 +449,18 @@
   "HOME_SEARCH": "Suche",
   "PREVIEW_SIZE_TOO_LARGE": "Vorschaugröße zu groß. Bitte laden Sie die Datei herunter, um sie anzuzeigen.",
   "NO_MODEL_TOOLS_FOUND": "Keine Modelle/Werkzeuge gefunden, die Ihren Filtern entsprechen",
-  "NO_DATA_SOURCES_FOUND": "Keine Datenquellen gefunden"
+  "NO_DATA_SOURCES_FOUND": "Keine Datenquellen gefunden",
+  "UPDATE": "Aktualisieren",
+  "ADMIN_SPARQL_ACTIONS": "Aktionen",
+  "ADMIN_SPARQL_SEARCH_LABEL": "Suche",
+  "TOGGLE_FILTERS": "Filter anzeigen",
+  "TOAST_MODEL_TOOL_ADDED": "Modell/Werkzeug wurde erfolgreich hinzugefügt",
+  "TOAST_MODEL_TOOL_REMOVED_TITLE": "Modell/Werkzeug entfernt",
+  "TOAST_MODEL_TOOL_REMOVED": "Modell/Werkzeug wurde erfolgreich entfernt",
+  "CATALOGUES_TITLE": "Kataloge",
+  "CATALOGUE_LIST_NAME": "Name",
+  "CATALOGUE_LIST_TYPE": "Typ",
+  "CATALOGUE_LIST_MODIFY_CATALOGUE": "Katalog bearbeiten",
+  "CATALOGUE_LIST_SEARCH_LABEL": "Katalog suchen",
+  "CATALOGUE_LIST_ADD_CATALOGUE": "Katalog hinzufügen"
 }
