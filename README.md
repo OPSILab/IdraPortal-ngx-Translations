@@ -5,4 +5,3 @@
 # Idra - Open Data Federation Platform
 
 This repository contains the translations of the pages that contitute the Idra web portal.
-
