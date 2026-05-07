@@ -373,6 +373,8 @@
   "TOAST_NO_DATASETS_SELECTED": "Žádný dataset vybrán ke smazání",
   "TOAST_WARNING": "Upozornění",
   "TOAST_ERROR": "Chyba",
+  "CONFIGURATION_SAVED": "Konfigurace byla úspěšně uložena",
+  "CONFIGURATION_SAVE_ERROR": "Uložení konfigurace se nezdařilo",
   "TOAST_PARTIAL_SUCCESS": "Částečný úspěch",
   "CREATE_NEW_MODEL_TOOL": "Vytvořit nový model/nástroj",
   "DELETE_ALL_MODEL_TOOLS": "Smazat všechny modely/nástroje",

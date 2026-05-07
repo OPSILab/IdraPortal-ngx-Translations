@@ -379,6 +379,8 @@
   "TOAST_NO_DATASETS_SELECTED": "Nepasirinkta nė vieno duomenų rinkinio trynimui",
   "TOAST_WARNING": "Įspėjimas",
   "TOAST_ERROR": "Klaida",
+  "CONFIGURATION_SAVED": "Konfigūracija išsaugota",
+  "CONFIGURATION_SAVE_ERROR": "Konfigūracijos išsaugoti nepavyko",
   "TOAST_PARTIAL_SUCCESS": "Dalinė sėkmė",
   "CREATE_NEW_MODEL_TOOL": "Sukurti naują modelį/įrankį",
   "DELETE_ALL_MODEL_TOOLS": "Ištrinti visus modelius/įrankius",

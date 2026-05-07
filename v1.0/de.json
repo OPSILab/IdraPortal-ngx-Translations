@@ -379,6 +379,8 @@
   "TOAST_NO_DATASETS_SELECTED": "Kein Datensatz zum Löschen ausgewählt",
   "TOAST_WARNING": "Warnung",
   "TOAST_ERROR": "Fehler",
+  "CONFIGURATION_SAVED": "Konfiguration erfolgreich gespeichert",
+  "CONFIGURATION_SAVE_ERROR": "Konfiguration konnte nicht gespeichert werden",
   "TOAST_PARTIAL_SUCCESS": "Teilweiser Erfolg",
   "CREATE_NEW_MODEL_TOOL": "Neues Modell/Werkzeug erstellen",
   "DELETE_ALL_MODEL_TOOLS": "Alle Modelle/Werkzeuge löschen",

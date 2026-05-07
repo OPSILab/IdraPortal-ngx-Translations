@@ -380,6 +380,8 @@
     "TOAST_NO_DATASETS_SELECTED": "Nessun dataset selezionato per l'eliminazione",
     "TOAST_WARNING": "Avviso",
     "TOAST_ERROR": "Errore",
+    "CONFIGURATION_SAVED": "Configurazione salvata con successo",
+    "CONFIGURATION_SAVE_ERROR": "Salvataggio della configurazione non riuscito",
     "TOAST_PARTIAL_SUCCESS": "Successo Parziale",
     "CREATE_NEW_MODEL_TOOL": "Crea Nuovo Modello/Strumento",
     "DELETE_ALL_MODEL_TOOLS": "Elimina Tutti i Modelli/Strumenti",

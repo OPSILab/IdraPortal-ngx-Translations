@@ -373,6 +373,8 @@
   "TOAST_NO_DATASETS_SELECTED": "Yhtään aineistoa ei valittu poistettavaksi",
   "TOAST_WARNING": "Varoitus",
   "TOAST_ERROR": "Virhe",
+  "CONFIGURATION_SAVED": "Asetukset tallennettu",
+  "CONFIGURATION_SAVE_ERROR": "Asetusten tallennus epäonnistui",
   "TOAST_PARTIAL_SUCCESS": "Osittainen onnistuminen",
   "CREATE_NEW_MODEL_TOOL": "Luo uusi malli/työkalu",
   "DELETE_ALL_MODEL_TOOLS": "Poista kaikki mallit/työkalut",

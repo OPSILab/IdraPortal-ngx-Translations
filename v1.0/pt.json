@@ -379,6 +379,8 @@
   "TOAST_NO_DATASETS_SELECTED": "Nenhum conjunto de dados selecionado para exclusão",
   "TOAST_WARNING": "Aviso",
   "TOAST_ERROR": "Erro",
+  "CONFIGURATION_SAVED": "Configuração guardada com sucesso",
+  "CONFIGURATION_SAVE_ERROR": "Falha ao guardar a configuração",
   "TOAST_PARTIAL_SUCCESS": "Sucesso Parcial",
   "CREATE_NEW_MODEL_TOOL": "Criar Novo Modelo/Instrumento",
   "DELETE_ALL_MODEL_TOOLS": "Excluir Todos os Modelos/Ferramentas",

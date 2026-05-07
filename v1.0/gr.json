@@ -379,6 +379,8 @@
   "TOAST_NO_DATASETS_SELECTED": "Δεν επιλέχθηκε κανένα σύνολο δεδομένων για διαγραφή",
   "TOAST_WARNING": "Προειδοποίηση",
   "TOAST_ERROR": "Σφάλμα",
+  "CONFIGURATION_SAVED": "Η διαμόρφωση αποθηκεύτηκε",
+  "CONFIGURATION_SAVE_ERROR": "Αποτυχία αποθήκευσης διαμόρφωσης",
   "TOAST_PARTIAL_SUCCESS": "Μερική Επιτυχία",
   "CREATE_NEW_MODEL_TOOL": "Δημιουργία Νέου Μοντέλου/Εργαλείου",
   "DELETE_ALL_MODEL_TOOLS": "Διαγραφή Όλων των Μοντέλων/Εργαλείων",

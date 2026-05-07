@@ -374,6 +374,8 @@
   "TOAST_NO_DATASETS_SELECTED": "Intet datasæt valgt til sletning",
   "TOAST_WARNING": "Advarsel",
   "TOAST_ERROR": "Fejl",
+  "CONFIGURATION_SAVED": "Konfiguration gemt",
+  "CONFIGURATION_SAVE_ERROR": "Kunne ikke gemme konfigurationen",
   "TOAST_PARTIAL_SUCCESS": "Delvis succes",
   "CREATE_NEW_MODEL_TOOL": "Opret nyt model/værktøj",
   "DELETE_ALL_MODEL_TOOLS": "Slet alle model/værktøjer",

@@ -373,6 +373,8 @@
   "TOAST_NO_DATASETS_SELECTED": "Geen datasets geselecteerd voor verwijdering",
   "TOAST_WARNING": "Waarschuwing",
   "TOAST_ERROR": "Fout",
+  "CONFIGURATION_SAVED": "Configuratie opgeslagen",
+  "CONFIGURATION_SAVE_ERROR": "Opslaan van configuratie mislukt",
   "TOAST_PARTIAL_SUCCESS": "Gedeeltelijk succes",
   "CREATE_NEW_MODEL_TOOL": "Nieuwe model/tool creëren",
   "DELETE_ALL_MODEL_TOOLS": "Verwijder alle modellen/tools",

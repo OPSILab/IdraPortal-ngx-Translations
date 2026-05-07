@@ -373,6 +373,8 @@
   "TOAST_NO_DATASETS_SELECTED": "Ühtegi andmekogu valitud eemaldamiseks",
   "TOAST_WARNING": "Hoiatus",
   "TOAST_ERROR": "Viga",
+  "CONFIGURATION_SAVED": "Konfiguratsioon salvestati",
+  "CONFIGURATION_SAVE_ERROR": "Konfiguratsiooni salvestamine ebaõnnestus",
   "TOAST_PARTIAL_SUCCESS": "Osaliselt edukas",
   "CREATE_NEW_MODEL_TOOL": "Loo uus mudel/tööriist",
   "DELETE_ALL_MODEL_TOOLS": "Kustuta kõik mudelid/tööriistad",
