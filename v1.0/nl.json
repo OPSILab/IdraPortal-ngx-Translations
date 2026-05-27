@@ -490,5 +490,84 @@
   "TOAST_DELETED_SUCCESS": "Succesvol verwijderd",
   "DIALOG_CREATE_NEW_PREFIX": "Nieuw prefix aanmaken",
   "DIALOG_MODIFY_PREFIX": "Prefix bewerken",
-  "DIALOG_CONFIRM_DELETE_ELEMENT": "Weet u zeker dat u dit element wilt verwijderen?"
+  "DIALOG_CONFIRM_DELETE_ELEMENT": "Weet u zeker dat u dit element wilt verwijderen?",
+  "ERR": {
+    "TITLE": "Fout",
+    "MODAL": {
+      "TITLE": "Er is iets misgegaan",
+      "RETRY": "Opnieuw proberen",
+      "CLOSE": "Sluiten",
+      "REFERENCE": "Referentie"
+    },
+    "PAGE": {
+      "TITLE": "Er is iets misgegaan",
+      "BACK": "Terug",
+      "HOME": "Naar startpagina"
+    },
+    "GENERIC": {
+      "INTERNAL": "Er is een onverwachte fout opgetreden. Probeer het opnieuw.",
+      "BAD_REQUEST": "Het verzoek was ongeldig. Controleer uw invoer.",
+      "NOT_FOUND": "De gevraagde bron is niet gevonden.",
+      "CONFLICT": "De bewerking is in conflict met de huidige status.",
+      "UPSTREAM_UNAVAILABLE": "Een vereiste service is tijdelijk niet beschikbaar.",
+      "TIMEOUT": "De bewerking is verlopen. Probeer het opnieuw."
+    },
+    "AUTH": {
+      "UNAUTHORIZED": "U moet aangemeld zijn om deze actie uit te voeren.",
+      "FORBIDDEN": "U hebt geen toestemming om deze actie uit te voeren.",
+      "INVALID_PASSWORD": "De gebruikersnaam of het wachtwoord is onjuist.",
+      "EXPIRED": "Uw sessie is verlopen. Meld u opnieuw aan."
+    },
+    "VALIDATION": {
+      "FAILED": "Sommige velden zijn ongeldig. Controleer ze en probeer het opnieuw.",
+      "MISSING_FIELD": "Een verplicht veld ontbreekt."
+    },
+    "DATASET": {
+      "NOT_FOUND": "Dataset niet gevonden.",
+      "INVALID": "De dataset is niet geldig.",
+      "DUPLICATE": "Er bestaat al een dataset met dezelfde identificatie."
+    },
+    "DISTRIBUTION": {
+      "NOT_FOUND": "Distributie niet gevonden."
+    },
+    "CATALOGUE": {
+      "NOT_FOUND": "Catalogus niet gevonden.",
+      "DUPLICATE": "Er bestaat al een catalogus met dezelfde identificatie.",
+      "OFFLINE": "De externe catalogus is momenteel niet bereikbaar.",
+      "FORBIDDEN": "Toegang tot de externe catalogus is geweigerd.",
+      "SSL": "De externe catalogus heeft een ongeldig SSL-certificaat.",
+      "STATE_CHANGE": "De catalogusstatus kan op dit moment niet worden gewijzigd.",
+      "MANAGER": "Er is een fout opgetreden bij het beheren van de catalogus."
+    },
+    "EUROVOC": {
+      "NOT_FOUND": "EuroVoc-vertaling niet beschikbaar."
+    },
+    "PERSISTENCE": {
+      "GENERIC": "Er is een opslagfout opgetreden.",
+      "CONSTRAINT": "De bewerking schendt een gegevensbeperking."
+    },
+    "SEARCH": {
+      "QUERY_INVALID": "De zoekopdracht is niet geldig.",
+      "BACKEND": "De zoekservice is momenteel niet beschikbaar."
+    },
+    "SPARQL": {
+      "QUERY_INVALID": "De SPARQL-query is niet geldig."
+    },
+    "DUMP": {
+      "NOT_FOUND": "De gevraagde dump is niet beschikbaar.",
+      "GENERATION": "Kan de dump niet genereren."
+    },
+    "FILE": {
+      "NOT_FOUND": "Bestand niet gevonden.",
+      "IO": "Er is een bestand-I/O-fout opgetreden."
+    },
+    "PARSE": {
+      "JSON": "De hoofdtekst van het verzoek is geen geldige JSON.",
+      "RDF": "Het ingediende RDF-document is niet geldig."
+    },
+    "NETWORK": {
+      "OFFLINE": "U lijkt offline te zijn. Controleer uw verbinding.",
+      "TIMEOUT": "Het verzoek duurde te lang. Probeer het opnieuw."
+    }
+  }
 }

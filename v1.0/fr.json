@@ -498,5 +498,84 @@
   "TOAST_DELETED_SUCCESS": "Supprimé avec succès",
   "DIALOG_CREATE_NEW_PREFIX": "Créer un nouveau préfixe",
   "DIALOG_MODIFY_PREFIX": "Modifier le préfixe",
-  "DIALOG_CONFIRM_DELETE_ELEMENT": "Êtes-vous sûr de vouloir supprimer cet élément ?"
+  "DIALOG_CONFIRM_DELETE_ELEMENT": "Êtes-vous sûr de vouloir supprimer cet élément ?",
+  "ERR": {
+    "TITLE": "Erreur",
+    "MODAL": {
+      "TITLE": "Une erreur est survenue",
+      "RETRY": "Réessayer",
+      "CLOSE": "Fermer",
+      "REFERENCE": "Référence"
+    },
+    "PAGE": {
+      "TITLE": "Une erreur est survenue",
+      "BACK": "Retour",
+      "HOME": "Aller à l'accueil"
+    },
+    "GENERIC": {
+      "INTERNAL": "Une erreur inattendue s'est produite. Veuillez réessayer.",
+      "BAD_REQUEST": "La requête est invalide. Veuillez vérifier votre saisie.",
+      "NOT_FOUND": "La ressource demandée est introuvable.",
+      "CONFLICT": "L'opération est en conflit avec l'état actuel.",
+      "UPSTREAM_UNAVAILABLE": "Un service requis est temporairement indisponible.",
+      "TIMEOUT": "L'opération a expiré. Veuillez réessayer."
+    },
+    "AUTH": {
+      "UNAUTHORIZED": "Vous devez être connecté pour effectuer cette action.",
+      "FORBIDDEN": "Vous n'avez pas la permission d'effectuer cette action.",
+      "INVALID_PASSWORD": "Le nom d'utilisateur ou le mot de passe est incorrect.",
+      "EXPIRED": "Votre session a expiré. Veuillez vous reconnecter."
+    },
+    "VALIDATION": {
+      "FAILED": "Certains champs sont invalides. Veuillez les vérifier et réessayer.",
+      "MISSING_FIELD": "Un champ obligatoire est manquant."
+    },
+    "DATASET": {
+      "NOT_FOUND": "Jeu de données introuvable.",
+      "INVALID": "Le jeu de données n'est pas valide.",
+      "DUPLICATE": "Un jeu de données avec le même identifiant existe déjà."
+    },
+    "DISTRIBUTION": {
+      "NOT_FOUND": "Distribution introuvable."
+    },
+    "CATALOGUE": {
+      "NOT_FOUND": "Catalogue introuvable.",
+      "DUPLICATE": "Un catalogue avec le même identifiant existe déjà.",
+      "OFFLINE": "Le catalogue distant est actuellement inaccessible.",
+      "FORBIDDEN": "L'accès au catalogue distant a été refusé.",
+      "SSL": "Le catalogue distant possède un certificat SSL non valide.",
+      "STATE_CHANGE": "L'état du catalogue ne peut pas être modifié pour le moment.",
+      "MANAGER": "Une erreur s'est produite lors de la gestion du catalogue."
+    },
+    "EUROVOC": {
+      "NOT_FOUND": "Traduction EuroVoc non disponible."
+    },
+    "PERSISTENCE": {
+      "GENERIC": "Une erreur de stockage s'est produite.",
+      "CONSTRAINT": "L'opération viole une contrainte sur les données."
+    },
+    "SEARCH": {
+      "QUERY_INVALID": "La requête de recherche n'est pas valide.",
+      "BACKEND": "Le service de recherche est actuellement indisponible."
+    },
+    "SPARQL": {
+      "QUERY_INVALID": "La requête SPARQL n'est pas valide."
+    },
+    "DUMP": {
+      "NOT_FOUND": "Le dump demandé n'est pas disponible.",
+      "GENERATION": "Échec de la génération du dump."
+    },
+    "FILE": {
+      "NOT_FOUND": "Fichier introuvable.",
+      "IO": "Une erreur d'E/S de fichier s'est produite."
+    },
+    "PARSE": {
+      "JSON": "Le corps de la requête n'est pas un JSON valide.",
+      "RDF": "Le document RDF soumis n'est pas valide."
+    },
+    "NETWORK": {
+      "OFFLINE": "Vous semblez être hors ligne. Veuillez vérifier votre connexion.",
+      "TIMEOUT": "La requête a pris trop de temps. Veuillez réessayer."
+    }
+  }
 }

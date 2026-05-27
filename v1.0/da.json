@@ -491,5 +491,84 @@
   "TOAST_DELETED_SUCCESS": "Slettet med succes",
   "DIALOG_CREATE_NEW_PREFIX": "Opret nyt præfiks",
   "DIALOG_MODIFY_PREFIX": "Rediger præfiks",
-  "DIALOG_CONFIRM_DELETE_ELEMENT": "Er du sikker på, at du vil slette dette element?"
+  "DIALOG_CONFIRM_DELETE_ELEMENT": "Er du sikker på, at du vil slette dette element?",
+  "ERR": {
+    "TITLE": "Fejl",
+    "MODAL": {
+      "TITLE": "Noget gik galt",
+      "RETRY": "Prøv igen",
+      "CLOSE": "Luk",
+      "REFERENCE": "Reference"
+    },
+    "PAGE": {
+      "TITLE": "Noget gik galt",
+      "BACK": "Gå tilbage",
+      "HOME": "Gå til forsiden"
+    },
+    "GENERIC": {
+      "INTERNAL": "Der opstod en uventet fejl. Prøv igen.",
+      "BAD_REQUEST": "Anmodningen var ugyldig. Kontroller dine indtastninger.",
+      "NOT_FOUND": "Den anmodede ressource blev ikke fundet.",
+      "CONFLICT": "Handlingen er i konflikt med den aktuelle tilstand.",
+      "UPSTREAM_UNAVAILABLE": "En påkrævet tjeneste er midlertidigt utilgængelig.",
+      "TIMEOUT": "Handlingen fik timeout. Prøv igen."
+    },
+    "AUTH": {
+      "UNAUTHORIZED": "Du skal være logget ind for at udføre denne handling.",
+      "FORBIDDEN": "Du har ikke tilladelse til at udføre denne handling.",
+      "INVALID_PASSWORD": "Brugernavnet eller adgangskoden er forkert.",
+      "EXPIRED": "Din session er udløbet. Log ind igen."
+    },
+    "VALIDATION": {
+      "FAILED": "Nogle felter er ugyldige. Gennemgå dem, og prøv igen.",
+      "MISSING_FIELD": "Et påkrævet felt mangler."
+    },
+    "DATASET": {
+      "NOT_FOUND": "Datasæt ikke fundet.",
+      "INVALID": "Datasættet er ikke gyldigt.",
+      "DUPLICATE": "Der findes allerede et datasæt med samme identifikator."
+    },
+    "DISTRIBUTION": {
+      "NOT_FOUND": "Distribution ikke fundet."
+    },
+    "CATALOGUE": {
+      "NOT_FOUND": "Katalog ikke fundet.",
+      "DUPLICATE": "Der findes allerede et katalog med samme identifikator.",
+      "OFFLINE": "Det eksterne katalog kan i øjeblikket ikke nås.",
+      "FORBIDDEN": "Adgang til det eksterne katalog blev nægtet.",
+      "SSL": "Det eksterne katalog har et ugyldigt SSL-certifikat.",
+      "STATE_CHANGE": "Katalogets tilstand kan ikke ændres lige nu.",
+      "MANAGER": "Der opstod en fejl under administration af kataloget."
+    },
+    "EUROVOC": {
+      "NOT_FOUND": "EuroVoc-oversættelse ikke tilgængelig."
+    },
+    "PERSISTENCE": {
+      "GENERIC": "Der opstod en lagringsfejl.",
+      "CONSTRAINT": "Handlingen overtræder en databegrænsning."
+    },
+    "SEARCH": {
+      "QUERY_INVALID": "Søgeforespørgslen er ikke gyldig.",
+      "BACKEND": "Søgetjenesten er i øjeblikket utilgængelig."
+    },
+    "SPARQL": {
+      "QUERY_INVALID": "SPARQL-forespørgslen er ikke gyldig."
+    },
+    "DUMP": {
+      "NOT_FOUND": "Det anmodede dump er ikke tilgængeligt.",
+      "GENERATION": "Kunne ikke generere dumpet."
+    },
+    "FILE": {
+      "NOT_FOUND": "Fil ikke fundet.",
+      "IO": "Der opstod en fil-I/O-fejl."
+    },
+    "PARSE": {
+      "JSON": "Anmodningens brødtekst er ikke gyldig JSON.",
+      "RDF": "Det indsendte RDF-dokument er ikke gyldigt."
+    },
+    "NETWORK": {
+      "OFFLINE": "Du ser ud til at være offline. Kontroller din forbindelse.",
+      "TIMEOUT": "Anmodningen tog for lang tid. Prøv igen."
+    }
+  }
 }

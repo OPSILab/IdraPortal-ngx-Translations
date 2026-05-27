@@ -489,5 +489,84 @@
   "TOAST_DELETED_SUCCESS": "Úspěšně smazáno",
   "DIALOG_CREATE_NEW_PREFIX": "Vytvořit nový prefix",
   "DIALOG_MODIFY_PREFIX": "Upravit prefix",
-  "DIALOG_CONFIRM_DELETE_ELEMENT": "Opravdu chcete smazat tento prvek?"
+  "DIALOG_CONFIRM_DELETE_ELEMENT": "Opravdu chcete smazat tento prvek?",
+  "ERR": {
+    "TITLE": "Chyba",
+    "MODAL": {
+      "TITLE": "Něco se pokazilo",
+      "RETRY": "Zkusit znovu",
+      "CLOSE": "Zavřít",
+      "REFERENCE": "Odkaz"
+    },
+    "PAGE": {
+      "TITLE": "Něco se pokazilo",
+      "BACK": "Zpět",
+      "HOME": "Přejít na domovskou stránku"
+    },
+    "GENERIC": {
+      "INTERNAL": "Došlo k neočekávané chybě. Zkuste to prosím znovu.",
+      "BAD_REQUEST": "Požadavek byl neplatný. Zkontrolujte prosím zadané údaje.",
+      "NOT_FOUND": "Požadovaný zdroj nebyl nalezen.",
+      "CONFLICT": "Operace je v konfliktu s aktuálním stavem.",
+      "UPSTREAM_UNAVAILABLE": "Požadovaná služba je dočasně nedostupná.",
+      "TIMEOUT": "Vypršel časový limit operace. Zkuste to prosím znovu."
+    },
+    "AUTH": {
+      "UNAUTHORIZED": "Pro provedení této akce musíte být přihlášeni.",
+      "FORBIDDEN": "Nemáte oprávnění k provedení této akce.",
+      "INVALID_PASSWORD": "Uživatelské jméno nebo heslo je nesprávné.",
+      "EXPIRED": "Vaše relace vypršela. Přihlaste se prosím znovu."
+    },
+    "VALIDATION": {
+      "FAILED": "Některá pole jsou neplatná. Zkontrolujte je a zkuste to znovu.",
+      "MISSING_FIELD": "Chybí povinné pole."
+    },
+    "DATASET": {
+      "NOT_FOUND": "Datová sada nebyla nalezena.",
+      "INVALID": "Datová sada není platná.",
+      "DUPLICATE": "Datová sada se stejným identifikátorem již existuje."
+    },
+    "DISTRIBUTION": {
+      "NOT_FOUND": "Distribuce nebyla nalezena."
+    },
+    "CATALOGUE": {
+      "NOT_FOUND": "Katalog nebyl nalezen.",
+      "DUPLICATE": "Katalog se stejným identifikátorem již existuje.",
+      "OFFLINE": "Vzdálený katalog je momentálně nedostupný.",
+      "FORBIDDEN": "Přístup ke vzdálenému katalogu byl odepřen.",
+      "SSL": "Vzdálený katalog má neplatný certifikát SSL.",
+      "STATE_CHANGE": "Stav katalogu nelze v tuto chvíli změnit.",
+      "MANAGER": "Při správě katalogu došlo k chybě."
+    },
+    "EUROVOC": {
+      "NOT_FOUND": "Překlad EuroVoc není k dispozici."
+    },
+    "PERSISTENCE": {
+      "GENERIC": "Došlo k chybě úložiště.",
+      "CONSTRAINT": "Operace porušuje datové omezení."
+    },
+    "SEARCH": {
+      "QUERY_INVALID": "Vyhledávací dotaz není platný.",
+      "BACKEND": "Vyhledávací služba je momentálně nedostupná."
+    },
+    "SPARQL": {
+      "QUERY_INVALID": "Dotaz SPARQL není platný."
+    },
+    "DUMP": {
+      "NOT_FOUND": "Požadovaný výpis není k dispozici.",
+      "GENERATION": "Nepodařilo se vygenerovat výpis."
+    },
+    "FILE": {
+      "NOT_FOUND": "Soubor nebyl nalezen.",
+      "IO": "Došlo k chybě vstupu/výstupu souboru."
+    },
+    "PARSE": {
+      "JSON": "Tělo požadavku není platný JSON.",
+      "RDF": "Odeslaný dokument RDF není platný."
+    },
+    "NETWORK": {
+      "OFFLINE": "Zdá se, že jste offline. Zkontrolujte prosím připojení.",
+      "TIMEOUT": "Požadavek trval příliš dlouho. Zkuste to prosím znovu."
+    }
+  }
 }

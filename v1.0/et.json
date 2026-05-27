@@ -490,5 +490,84 @@
   "TOAST_DELETED_SUCCESS": "Edukalt kustutatud",
   "DIALOG_CREATE_NEW_PREFIX": "Loo uus eesliide",
   "DIALOG_MODIFY_PREFIX": "Muuda eesliidet",
-  "DIALOG_CONFIRM_DELETE_ELEMENT": "Kas olete kindel, et soovite selle elemendi kustutada?"
+  "DIALOG_CONFIRM_DELETE_ELEMENT": "Kas olete kindel, et soovite selle elemendi kustutada?",
+  "ERR": {
+    "TITLE": "Viga",
+    "MODAL": {
+      "TITLE": "Midagi läks valesti",
+      "RETRY": "Proovi uuesti",
+      "CLOSE": "Sulge",
+      "REFERENCE": "Viide"
+    },
+    "PAGE": {
+      "TITLE": "Midagi läks valesti",
+      "BACK": "Tagasi",
+      "HOME": "Avalehele"
+    },
+    "GENERIC": {
+      "INTERNAL": "Ilmnes ootamatu viga. Palun proovi uuesti.",
+      "BAD_REQUEST": "Päring oli vigane. Palun kontrolli sisestatud andmeid.",
+      "NOT_FOUND": "Soovitud ressurssi ei leitud.",
+      "CONFLICT": "Toiming on vastuolus praeguse olekuga.",
+      "UPSTREAM_UNAVAILABLE": "Vajalik teenus on ajutiselt kättesaamatu.",
+      "TIMEOUT": "Toimingu ajalimiit sai täis. Palun proovi uuesti."
+    },
+    "AUTH": {
+      "UNAUTHORIZED": "Selle toimingu tegemiseks pead olema sisse logitud.",
+      "FORBIDDEN": "Sul puudub õigus selle toimingu tegemiseks.",
+      "INVALID_PASSWORD": "Kasutajanimi või parool on vale.",
+      "EXPIRED": "Sinu seanss on aegunud. Palun logi uuesti sisse."
+    },
+    "VALIDATION": {
+      "FAILED": "Mõned väljad on vigased. Palun kontrolli ja proovi uuesti.",
+      "MISSING_FIELD": "Kohustuslik väli on puudu."
+    },
+    "DATASET": {
+      "NOT_FOUND": "Andmestikku ei leitud.",
+      "INVALID": "Andmestik ei ole kehtiv.",
+      "DUPLICATE": "Sama identifikaatoriga andmestik on juba olemas."
+    },
+    "DISTRIBUTION": {
+      "NOT_FOUND": "Levitust ei leitud."
+    },
+    "CATALOGUE": {
+      "NOT_FOUND": "Kataloogi ei leitud.",
+      "DUPLICATE": "Sama identifikaatoriga kataloog on juba olemas.",
+      "OFFLINE": "Kaugkataloog ei ole hetkel kättesaadav.",
+      "FORBIDDEN": "Juurdepääs kaugkataloogile keelati.",
+      "SSL": "Kaugkataloogil on kehtetu SSL-sertifikaat.",
+      "STATE_CHANGE": "Kataloogi olekut ei saa praegu muuta.",
+      "MANAGER": "Kataloogi haldamisel ilmnes viga."
+    },
+    "EUROVOC": {
+      "NOT_FOUND": "EuroVoci tõlge ei ole saadaval."
+    },
+    "PERSISTENCE": {
+      "GENERIC": "Ilmnes salvestusviga.",
+      "CONSTRAINT": "Toiming rikub andmepiirangut."
+    },
+    "SEARCH": {
+      "QUERY_INVALID": "Otsingupäring ei ole kehtiv.",
+      "BACKEND": "Otsinguteenus ei ole hetkel saadaval."
+    },
+    "SPARQL": {
+      "QUERY_INVALID": "SPARQL-päring ei ole kehtiv."
+    },
+    "DUMP": {
+      "NOT_FOUND": "Soovitud tõmmis ei ole saadaval.",
+      "GENERATION": "Tõmmise loomine ebaõnnestus."
+    },
+    "FILE": {
+      "NOT_FOUND": "Faili ei leitud.",
+      "IO": "Ilmnes faili sisend-/väljundviga."
+    },
+    "PARSE": {
+      "JSON": "Päringu sisu ei ole kehtiv JSON.",
+      "RDF": "Esitatud RDF-dokument ei ole kehtiv."
+    },
+    "NETWORK": {
+      "OFFLINE": "Tundub, et oled võrguühenduseta. Palun kontrolli ühendust.",
+      "TIMEOUT": "Päring võttis liiga kaua aega. Palun proovi uuesti."
+    }
+  }
 }

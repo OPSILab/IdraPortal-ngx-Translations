@@ -490,5 +490,84 @@
   "TOAST_DELETED_SUCCESS": "Poistettu onnistuneesti",
   "DIALOG_CREATE_NEW_PREFIX": "Luo uusi etuliite",
   "DIALOG_MODIFY_PREFIX": "Muokkaa etuliitettä",
-  "DIALOG_CONFIRM_DELETE_ELEMENT": "Haluatko varmasti poistaa tämän elementin?"
+  "DIALOG_CONFIRM_DELETE_ELEMENT": "Haluatko varmasti poistaa tämän elementin?",
+  "ERR": {
+    "TITLE": "Virhe",
+    "MODAL": {
+      "TITLE": "Jokin meni pieleen",
+      "RETRY": "Yritä uudelleen",
+      "CLOSE": "Sulje",
+      "REFERENCE": "Viite"
+    },
+    "PAGE": {
+      "TITLE": "Jokin meni pieleen",
+      "BACK": "Takaisin",
+      "HOME": "Siirry etusivulle"
+    },
+    "GENERIC": {
+      "INTERNAL": "Tapahtui odottamaton virhe. Yritä uudelleen.",
+      "BAD_REQUEST": "Pyyntö oli virheellinen. Tarkista syöttämäsi tiedot.",
+      "NOT_FOUND": "Pyydettyä resurssia ei löytynyt.",
+      "CONFLICT": "Toiminto on ristiriidassa nykyisen tilan kanssa.",
+      "UPSTREAM_UNAVAILABLE": "Vaadittu palvelu ei ole tilapäisesti käytettävissä.",
+      "TIMEOUT": "Toiminnon aikakatkaisu. Yritä uudelleen."
+    },
+    "AUTH": {
+      "UNAUTHORIZED": "Sinun on kirjauduttava sisään suorittaaksesi tämän toiminnon.",
+      "FORBIDDEN": "Sinulla ei ole oikeutta suorittaa tätä toimintoa.",
+      "INVALID_PASSWORD": "Käyttäjätunnus tai salasana on virheellinen.",
+      "EXPIRED": "Istuntosi on vanhentunut. Kirjaudu uudelleen sisään."
+    },
+    "VALIDATION": {
+      "FAILED": "Jotkin kentät ovat virheellisiä. Tarkista ne ja yritä uudelleen.",
+      "MISSING_FIELD": "Pakollinen kenttä puuttuu."
+    },
+    "DATASET": {
+      "NOT_FOUND": "Tietoaineistoa ei löytynyt.",
+      "INVALID": "Tietoaineisto ei ole kelvollinen.",
+      "DUPLICATE": "Tietoaineisto, jolla on sama tunniste, on jo olemassa."
+    },
+    "DISTRIBUTION": {
+      "NOT_FOUND": "Jakelua ei löytynyt."
+    },
+    "CATALOGUE": {
+      "NOT_FOUND": "Luetteloa ei löytynyt.",
+      "DUPLICATE": "Luettelo, jolla on sama tunniste, on jo olemassa.",
+      "OFFLINE": "Etäluettelo ei ole tällä hetkellä tavoitettavissa.",
+      "FORBIDDEN": "Pääsy etäluetteloon evättiin.",
+      "SSL": "Etäluettelolla on virheellinen SSL-varmenne.",
+      "STATE_CHANGE": "Luettelon tilaa ei voi muuttaa juuri nyt.",
+      "MANAGER": "Luettelon hallinnassa tapahtui virhe."
+    },
+    "EUROVOC": {
+      "NOT_FOUND": "EuroVoc-käännös ei ole saatavilla."
+    },
+    "PERSISTENCE": {
+      "GENERIC": "Tapahtui tallennusvirhe.",
+      "CONSTRAINT": "Toiminto rikkoo tietorajoitusta."
+    },
+    "SEARCH": {
+      "QUERY_INVALID": "Hakukysely ei ole kelvollinen.",
+      "BACKEND": "Hakupalvelu ei ole tällä hetkellä käytettävissä."
+    },
+    "SPARQL": {
+      "QUERY_INVALID": "SPARQL-kysely ei ole kelvollinen."
+    },
+    "DUMP": {
+      "NOT_FOUND": "Pyydetty vedos ei ole saatavilla.",
+      "GENERATION": "Vedoksen luominen epäonnistui."
+    },
+    "FILE": {
+      "NOT_FOUND": "Tiedostoa ei löytynyt.",
+      "IO": "Tapahtui tiedoston I/O-virhe."
+    },
+    "PARSE": {
+      "JSON": "Pyynnön sisältö ei ole kelvollista JSONia.",
+      "RDF": "Lähetetty RDF-asiakirja ei ole kelvollinen."
+    },
+    "NETWORK": {
+      "OFFLINE": "Vaikutat olevan offline-tilassa. Tarkista yhteytesi.",
+      "TIMEOUT": "Pyyntö kesti liian kauan. Yritä uudelleen."
+    }
+  }
 }

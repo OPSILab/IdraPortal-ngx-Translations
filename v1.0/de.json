@@ -498,5 +498,84 @@
   "TOAST_DELETED_SUCCESS": "Erfolgreich gelöscht",
   "DIALOG_CREATE_NEW_PREFIX": "Neuen Präfix erstellen",
   "DIALOG_MODIFY_PREFIX": "Präfix bearbeiten",
-  "DIALOG_CONFIRM_DELETE_ELEMENT": "Sind Sie sicher, dass Sie dieses Element löschen möchten?"
+  "DIALOG_CONFIRM_DELETE_ELEMENT": "Sind Sie sicher, dass Sie dieses Element löschen möchten?",
+  "ERR": {
+    "TITLE": "Fehler",
+    "MODAL": {
+      "TITLE": "Etwas ist schiefgelaufen",
+      "RETRY": "Erneut versuchen",
+      "CLOSE": "Schließen",
+      "REFERENCE": "Referenz"
+    },
+    "PAGE": {
+      "TITLE": "Etwas ist schiefgelaufen",
+      "BACK": "Zurück",
+      "HOME": "Zur Startseite"
+    },
+    "GENERIC": {
+      "INTERNAL": "Ein unerwarteter Fehler ist aufgetreten. Bitte versuchen Sie es erneut.",
+      "BAD_REQUEST": "Die Anfrage war ungültig. Bitte überprüfen Sie Ihre Eingabe.",
+      "NOT_FOUND": "Die angeforderte Ressource wurde nicht gefunden.",
+      "CONFLICT": "Der Vorgang steht im Konflikt mit dem aktuellen Zustand.",
+      "UPSTREAM_UNAVAILABLE": "Ein erforderlicher Dienst ist vorübergehend nicht verfügbar.",
+      "TIMEOUT": "Zeitüberschreitung beim Vorgang. Bitte versuchen Sie es erneut."
+    },
+    "AUTH": {
+      "UNAUTHORIZED": "Sie müssen angemeldet sein, um diese Aktion auszuführen.",
+      "FORBIDDEN": "Sie haben keine Berechtigung, diese Aktion auszuführen.",
+      "INVALID_PASSWORD": "Benutzername oder Passwort ist falsch.",
+      "EXPIRED": "Ihre Sitzung ist abgelaufen. Bitte melden Sie sich erneut an."
+    },
+    "VALIDATION": {
+      "FAILED": "Einige Felder sind ungültig. Bitte überprüfen Sie sie und versuchen Sie es erneut.",
+      "MISSING_FIELD": "Ein Pflichtfeld fehlt."
+    },
+    "DATASET": {
+      "NOT_FOUND": "Datensatz nicht gefunden.",
+      "INVALID": "Der Datensatz ist ungültig.",
+      "DUPLICATE": "Ein Datensatz mit derselben Kennung existiert bereits."
+    },
+    "DISTRIBUTION": {
+      "NOT_FOUND": "Distribution nicht gefunden."
+    },
+    "CATALOGUE": {
+      "NOT_FOUND": "Katalog nicht gefunden.",
+      "DUPLICATE": "Ein Katalog mit derselben Kennung existiert bereits.",
+      "OFFLINE": "Der entfernte Katalog ist derzeit nicht erreichbar.",
+      "FORBIDDEN": "Der Zugriff auf den entfernten Katalog wurde verweigert.",
+      "SSL": "Der entfernte Katalog hat ein ungültiges SSL-Zertifikat.",
+      "STATE_CHANGE": "Der Katalogstatus kann derzeit nicht geändert werden.",
+      "MANAGER": "Bei der Verwaltung des Katalogs ist ein Fehler aufgetreten."
+    },
+    "EUROVOC": {
+      "NOT_FOUND": "EuroVoc-Übersetzung nicht verfügbar."
+    },
+    "PERSISTENCE": {
+      "GENERIC": "Ein Speicherfehler ist aufgetreten.",
+      "CONSTRAINT": "Der Vorgang verletzt eine Datenbeschränkung."
+    },
+    "SEARCH": {
+      "QUERY_INVALID": "Die Suchanfrage ist ungültig.",
+      "BACKEND": "Der Suchdienst ist derzeit nicht verfügbar."
+    },
+    "SPARQL": {
+      "QUERY_INVALID": "Die SPARQL-Abfrage ist ungültig."
+    },
+    "DUMP": {
+      "NOT_FOUND": "Der angeforderte Dump ist nicht verfügbar.",
+      "GENERATION": "Der Dump konnte nicht erstellt werden."
+    },
+    "FILE": {
+      "NOT_FOUND": "Datei nicht gefunden.",
+      "IO": "Ein Datei-E/A-Fehler ist aufgetreten."
+    },
+    "PARSE": {
+      "JSON": "Der Anfragetext ist kein gültiges JSON.",
+      "RDF": "Das übermittelte RDF-Dokument ist ungültig."
+    },
+    "NETWORK": {
+      "OFFLINE": "Sie scheinen offline zu sein. Bitte überprüfen Sie Ihre Verbindung.",
+      "TIMEOUT": "Die Anfrage hat zu lange gedauert. Bitte versuchen Sie es erneut."
+    }
+  }
 }

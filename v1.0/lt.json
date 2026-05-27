@@ -498,5 +498,84 @@
   "TOAST_DELETED_SUCCESS": "Sėkmingai ištrinta",
   "DIALOG_CREATE_NEW_PREFIX": "Sukurti naują prefiksą",
   "DIALOG_MODIFY_PREFIX": "Keisti prefiksą",
-  "DIALOG_CONFIRM_DELETE_ELEMENT": "Ar tikrai norite ištrinti šį elementą?"
+  "DIALOG_CONFIRM_DELETE_ELEMENT": "Ar tikrai norite ištrinti šį elementą?",
+  "ERR": {
+    "TITLE": "Klaida",
+    "MODAL": {
+      "TITLE": "Kažkas nepavyko",
+      "RETRY": "Bandyti dar kartą",
+      "CLOSE": "Uždaryti",
+      "REFERENCE": "Nuoroda"
+    },
+    "PAGE": {
+      "TITLE": "Kažkas nepavyko",
+      "BACK": "Grįžti",
+      "HOME": "Eiti į pradžią"
+    },
+    "GENERIC": {
+      "INTERNAL": "Įvyko netikėta klaida. Bandykite dar kartą.",
+      "BAD_REQUEST": "Užklausa buvo netinkama. Patikrinkite įvestus duomenis.",
+      "NOT_FOUND": "Prašomas išteklius nerastas.",
+      "CONFLICT": "Operacija prieštarauja dabartinei būsenai.",
+      "UPSTREAM_UNAVAILABLE": "Reikalinga paslauga laikinai nepasiekiama.",
+      "TIMEOUT": "Baigėsi operacijos laikas. Bandykite dar kartą."
+    },
+    "AUTH": {
+      "UNAUTHORIZED": "Norėdami atlikti šį veiksmą, turite būti prisijungę.",
+      "FORBIDDEN": "Neturite teisės atlikti šį veiksmą.",
+      "INVALID_PASSWORD": "Vartotojo vardas arba slaptažodis neteisingas.",
+      "EXPIRED": "Jūsų sesija baigėsi. Prisijunkite iš naujo."
+    },
+    "VALIDATION": {
+      "FAILED": "Kai kurie laukai netinkami. Peržiūrėkite juos ir bandykite dar kartą.",
+      "MISSING_FIELD": "Trūksta privalomo lauko."
+    },
+    "DATASET": {
+      "NOT_FOUND": "Duomenų rinkinys nerastas.",
+      "INVALID": "Duomenų rinkinys netinkamas.",
+      "DUPLICATE": "Duomenų rinkinys su tuo pačiu identifikatoriumi jau egzistuoja."
+    },
+    "DISTRIBUTION": {
+      "NOT_FOUND": "Platinimas nerastas."
+    },
+    "CATALOGUE": {
+      "NOT_FOUND": "Katalogas nerastas.",
+      "DUPLICATE": "Katalogas su tuo pačiu identifikatoriumi jau egzistuoja.",
+      "OFFLINE": "Nuotolinis katalogas šiuo metu nepasiekiamas.",
+      "FORBIDDEN": "Prieiga prie nuotolinio katalogo buvo atmesta.",
+      "SSL": "Nuotolinis katalogas turi netinkamą SSL sertifikatą.",
+      "STATE_CHANGE": "Katalogo būsenos šiuo metu pakeisti negalima.",
+      "MANAGER": "Tvarkant katalogą įvyko klaida."
+    },
+    "EUROVOC": {
+      "NOT_FOUND": "EuroVoc vertimas negalimas."
+    },
+    "PERSISTENCE": {
+      "GENERIC": "Įvyko saugojimo klaida.",
+      "CONSTRAINT": "Operacija pažeidžia duomenų apribojimą."
+    },
+    "SEARCH": {
+      "QUERY_INVALID": "Paieškos užklausa netinkama.",
+      "BACKEND": "Paieškos paslauga šiuo metu nepasiekiama."
+    },
+    "SPARQL": {
+      "QUERY_INVALID": "SPARQL užklausa netinkama."
+    },
+    "DUMP": {
+      "NOT_FOUND": "Prašoma iškrova negalima.",
+      "GENERATION": "Nepavyko sugeneruoti iškrovos."
+    },
+    "FILE": {
+      "NOT_FOUND": "Failas nerastas.",
+      "IO": "Įvyko failo įvesties/išvesties klaida."
+    },
+    "PARSE": {
+      "JSON": "Užklausos turinys nėra tinkamas JSON.",
+      "RDF": "Pateiktas RDF dokumentas netinkamas."
+    },
+    "NETWORK": {
+      "OFFLINE": "Atrodo, kad esate neprisijungę. Patikrinkite ryšį.",
+      "TIMEOUT": "Užklausa truko per ilgai. Bandykite dar kartą."
+    }
+  }
 }

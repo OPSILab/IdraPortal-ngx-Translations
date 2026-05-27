@@ -498,5 +498,84 @@
   "TOAST_DELETED_SUCCESS": "Eliminado com sucesso",
   "DIALOG_CREATE_NEW_PREFIX": "Criar novo prefixo",
   "DIALOG_MODIFY_PREFIX": "Modificar prefixo",
-  "DIALOG_CONFIRM_DELETE_ELEMENT": "Tem a certeza de que pretende eliminar este elemento?"
+  "DIALOG_CONFIRM_DELETE_ELEMENT": "Tem a certeza de que pretende eliminar este elemento?",
+  "ERR": {
+    "TITLE": "Erro",
+    "MODAL": {
+      "TITLE": "Ocorreu um erro",
+      "RETRY": "Tentar novamente",
+      "CLOSE": "Fechar",
+      "REFERENCE": "Referência"
+    },
+    "PAGE": {
+      "TITLE": "Ocorreu um erro",
+      "BACK": "Voltar",
+      "HOME": "Ir para o início"
+    },
+    "GENERIC": {
+      "INTERNAL": "Ocorreu um erro inesperado. Tente novamente.",
+      "BAD_REQUEST": "O pedido é inválido. Verifique os dados introduzidos.",
+      "NOT_FOUND": "O recurso solicitado não foi encontrado.",
+      "CONFLICT": "A operação está em conflito com o estado atual.",
+      "UPSTREAM_UNAVAILABLE": "Um serviço necessário está temporariamente indisponível.",
+      "TIMEOUT": "A operação excedeu o tempo limite. Tente novamente."
+    },
+    "AUTH": {
+      "UNAUTHORIZED": "Tem de iniciar sessão para realizar esta ação.",
+      "FORBIDDEN": "Não tem permissão para realizar esta ação.",
+      "INVALID_PASSWORD": "O nome de utilizador ou a palavra-passe estão incorretos.",
+      "EXPIRED": "A sua sessão expirou. Inicie sessão novamente."
+    },
+    "VALIDATION": {
+      "FAILED": "Alguns campos são inválidos. Reveja-os e tente novamente.",
+      "MISSING_FIELD": "Falta um campo obrigatório."
+    },
+    "DATASET": {
+      "NOT_FOUND": "Conjunto de dados não encontrado.",
+      "INVALID": "O conjunto de dados não é válido.",
+      "DUPLICATE": "Já existe um conjunto de dados com o mesmo identificador."
+    },
+    "DISTRIBUTION": {
+      "NOT_FOUND": "Distribuição não encontrada."
+    },
+    "CATALOGUE": {
+      "NOT_FOUND": "Catálogo não encontrado.",
+      "DUPLICATE": "Já existe um catálogo com o mesmo identificador.",
+      "OFFLINE": "O catálogo remoto está atualmente inacessível.",
+      "FORBIDDEN": "O acesso ao catálogo remoto foi negado.",
+      "SSL": "O catálogo remoto tem um certificado SSL inválido.",
+      "STATE_CHANGE": "O estado do catálogo não pode ser alterado neste momento.",
+      "MANAGER": "Ocorreu um erro ao gerir o catálogo."
+    },
+    "EUROVOC": {
+      "NOT_FOUND": "Tradução EuroVoc não disponível."
+    },
+    "PERSISTENCE": {
+      "GENERIC": "Ocorreu um erro de armazenamento.",
+      "CONSTRAINT": "A operação viola uma restrição de dados."
+    },
+    "SEARCH": {
+      "QUERY_INVALID": "A consulta de pesquisa não é válida.",
+      "BACKEND": "O serviço de pesquisa está atualmente indisponível."
+    },
+    "SPARQL": {
+      "QUERY_INVALID": "A consulta SPARQL não é válida."
+    },
+    "DUMP": {
+      "NOT_FOUND": "O dump solicitado não está disponível.",
+      "GENERATION": "Falha ao gerar o dump."
+    },
+    "FILE": {
+      "NOT_FOUND": "Ficheiro não encontrado.",
+      "IO": "Ocorreu um erro de E/S de ficheiro."
+    },
+    "PARSE": {
+      "JSON": "O corpo do pedido não é um JSON válido.",
+      "RDF": "O documento RDF submetido não é válido."
+    },
+    "NETWORK": {
+      "OFFLINE": "Parece estar offline. Verifique a sua ligação.",
+      "TIMEOUT": "O pedido demorou demasiado tempo. Tente novamente."
+    }
+  }
 }
