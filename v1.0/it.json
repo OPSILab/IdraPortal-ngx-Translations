@@ -498,5 +498,84 @@
   "TOAST_DELETED_SUCCESS": "Eliminato con successo",
   "DIALOG_CREATE_NEW_PREFIX": "Crea nuovo prefisso",
   "DIALOG_MODIFY_PREFIX": "Modifica prefisso",
-  "DIALOG_CONFIRM_DELETE_ELEMENT": "Sei sicuro di voler eliminare questo elemento?"
+  "DIALOG_CONFIRM_DELETE_ELEMENT": "Sei sicuro di voler eliminare questo elemento?",
+  "ERR": {
+    "TITLE": "Errore",
+    "MODAL": {
+      "TITLE": "Si è verificato un errore",
+      "RETRY": "Riprova",
+      "CLOSE": "Chiudi",
+      "REFERENCE": "Riferimento"
+    },
+    "PAGE": {
+      "TITLE": "Si è verificato un errore",
+      "BACK": "Indietro",
+      "HOME": "Vai alla home"
+    },
+    "GENERIC": {
+      "INTERNAL": "Si è verificato un errore imprevisto. Riprova.",
+      "BAD_REQUEST": "La richiesta non è valida. Verifica i dati inseriti.",
+      "NOT_FOUND": "La risorsa richiesta non è stata trovata.",
+      "CONFLICT": "L'operazione è in conflitto con lo stato attuale.",
+      "UPSTREAM_UNAVAILABLE": "Un servizio richiesto è temporaneamente non disponibile.",
+      "TIMEOUT": "L'operazione ha impiegato troppo tempo. Riprova."
+    },
+    "AUTH": {
+      "UNAUTHORIZED": "Devi accedere per eseguire questa operazione.",
+      "FORBIDDEN": "Non hai i permessi per eseguire questa operazione.",
+      "INVALID_PASSWORD": "Nome utente o password non corretti.",
+      "EXPIRED": "La tua sessione è scaduta. Effettua nuovamente l'accesso."
+    },
+    "VALIDATION": {
+      "FAILED": "Alcuni campi non sono validi. Controlla e riprova.",
+      "MISSING_FIELD": "Manca un campo obbligatorio."
+    },
+    "DATASET": {
+      "NOT_FOUND": "Dataset non trovato.",
+      "INVALID": "Il dataset non è valido.",
+      "DUPLICATE": "Esiste già un dataset con lo stesso identificativo."
+    },
+    "DISTRIBUTION": {
+      "NOT_FOUND": "Distribuzione non trovata."
+    },
+    "CATALOGUE": {
+      "NOT_FOUND": "Catalogo non trovato.",
+      "DUPLICATE": "Esiste già un catalogo con lo stesso identificativo.",
+      "OFFLINE": "Il catalogo remoto non è al momento raggiungibile.",
+      "FORBIDDEN": "Accesso al catalogo remoto negato.",
+      "SSL": "Il catalogo remoto ha un certificato SSL non valido.",
+      "STATE_CHANGE": "Lo stato del catalogo non può essere modificato in questo momento.",
+      "MANAGER": "Si è verificato un errore nella gestione del catalogo."
+    },
+    "EUROVOC": {
+      "NOT_FOUND": "Traduzione EuroVoc non disponibile."
+    },
+    "PERSISTENCE": {
+      "GENERIC": "Si è verificato un errore di archiviazione.",
+      "CONSTRAINT": "L'operazione viola un vincolo sui dati."
+    },
+    "SEARCH": {
+      "QUERY_INVALID": "La query di ricerca non è valida.",
+      "BACKEND": "Il servizio di ricerca non è al momento disponibile."
+    },
+    "SPARQL": {
+      "QUERY_INVALID": "La query SPARQL non è valida."
+    },
+    "DUMP": {
+      "NOT_FOUND": "Il dump richiesto non è disponibile.",
+      "GENERATION": "Impossibile generare il dump."
+    },
+    "FILE": {
+      "NOT_FOUND": "File non trovato.",
+      "IO": "Si è verificato un errore di I/O sul file."
+    },
+    "PARSE": {
+      "JSON": "Il corpo della richiesta non è un JSON valido.",
+      "RDF": "Il documento RDF inviato non è valido."
+    },
+    "NETWORK": {
+      "OFFLINE": "Sembra che tu sia offline. Controlla la connessione.",
+      "TIMEOUT": "La richiesta ha impiegato troppo tempo. Riprova."
+    }
+  }
 }
