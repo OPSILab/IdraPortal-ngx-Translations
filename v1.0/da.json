@@ -499,6 +499,11 @@
   "DIALOG_CREATE_NEW_PREFIX": "Opret nyt præfiks",
   "DIALOG_MODIFY_PREFIX": "Rediger præfiks",
   "DIALOG_CONFIRM_DELETE_ELEMENT": "Er du sikker på, at du vil slette dette element?",
+  "FACET_HVD_CATEGORIES": "HVD-kategorier",
+  "FACET_FORMATS": "Formater",
+  "FACET_LICENSES": "Licenser",
+  "THEME_DARK": "Mørk",
+  "THEME_COSMIC": "Kosmisk",
   "ERR": {
     "TITLE": "Fejl",
     "MODAL": {

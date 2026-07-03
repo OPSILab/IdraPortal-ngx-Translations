@@ -499,6 +499,11 @@
   "DIALOG_CREATE_NEW_PREFIX": "Creează prefix nou",
   "DIALOG_MODIFY_PREFIX": "Modifică prefix",
   "DIALOG_CONFIRM_DELETE_ELEMENT": "Sigur doriți să ștergeți acest element?",
+  "FACET_HVD_CATEGORIES": "Categorii HVD",
+  "FACET_FORMATS": "Formate",
+  "FACET_LICENSES": "Licențe",
+  "THEME_DARK": "Întunecat",
+  "THEME_COSMIC": "Cosmic",
   "ERR": {
     "TITLE": "Eroare",
     "MODAL": {

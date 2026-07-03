@@ -499,6 +499,11 @@
   "DIALOG_CREATE_NEW_PREFIX": "Loo uus eesliide",
   "DIALOG_MODIFY_PREFIX": "Muuda eesliidet",
   "DIALOG_CONFIRM_DELETE_ELEMENT": "Kas olete kindel, et soovite selle elemendi kustutada?",
+  "FACET_HVD_CATEGORIES": "HVD kategooriad",
+  "FACET_FORMATS": "Vormingud",
+  "FACET_LICENSES": "Litsentsid",
+  "THEME_DARK": "Tume",
+  "THEME_COSMIC": "Kosmiline",
   "ERR": {
     "TITLE": "Viga",
     "MODAL": {

@@ -499,6 +499,11 @@
   "DIALOG_CREATE_NEW_PREFIX": "Sukurti naują prefiksą",
   "DIALOG_MODIFY_PREFIX": "Keisti prefiksą",
   "DIALOG_CONFIRM_DELETE_ELEMENT": "Ar tikrai norite ištrinti šį elementą?",
+  "FACET_HVD_CATEGORIES": "HVD kategorijos",
+  "FACET_FORMATS": "Formatai",
+  "FACET_LICENSES": "Licencijos",
+  "THEME_DARK": "Tamsi",
+  "THEME_COSMIC": "Kosminis",
   "ERR": {
     "TITLE": "Klaida",
     "MODAL": {

@@ -499,6 +499,11 @@
   "DIALOG_CREATE_NEW_PREFIX": "Vytvořit nový prefix",
   "DIALOG_MODIFY_PREFIX": "Upravit prefix",
   "DIALOG_CONFIRM_DELETE_ELEMENT": "Opravdu chcete smazat tento prvek?",
+  "FACET_HVD_CATEGORIES": "Kategorie HVD",
+  "FACET_FORMATS": "Formáty",
+  "FACET_LICENSES": "Licence",
+  "THEME_DARK": "Tmavý",
+  "THEME_COSMIC": "Kosmický",
   "ERR": {
     "TITLE": "Chyba",
     "MODAL": {

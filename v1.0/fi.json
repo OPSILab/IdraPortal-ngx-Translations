@@ -499,6 +499,11 @@
   "DIALOG_CREATE_NEW_PREFIX": "Luo uusi etuliite",
   "DIALOG_MODIFY_PREFIX": "Muokkaa etuliitettä",
   "DIALOG_CONFIRM_DELETE_ELEMENT": "Haluatko varmasti poistaa tämän elementin?",
+  "FACET_HVD_CATEGORIES": "HVD-luokat",
+  "FACET_FORMATS": "Muodot",
+  "FACET_LICENSES": "Lisenssit",
+  "THEME_DARK": "Tumma",
+  "THEME_COSMIC": "Kosminen",
   "ERR": {
     "TITLE": "Virhe",
     "MODAL": {

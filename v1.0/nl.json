@@ -499,6 +499,11 @@
   "DIALOG_CREATE_NEW_PREFIX": "Nieuw prefix aanmaken",
   "DIALOG_MODIFY_PREFIX": "Prefix bewerken",
   "DIALOG_CONFIRM_DELETE_ELEMENT": "Weet u zeker dat u dit element wilt verwijderen?",
+  "FACET_HVD_CATEGORIES": "HVD-categorieën",
+  "FACET_FORMATS": "Formaten",
+  "FACET_LICENSES": "Licenties",
+  "THEME_DARK": "Donker",
+  "THEME_COSMIC": "Kosmisch",
   "ERR": {
     "TITLE": "Fout",
     "MODAL": {

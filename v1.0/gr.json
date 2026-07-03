@@ -499,6 +499,11 @@
   "DIALOG_CREATE_NEW_PREFIX": "Δημιουργία νέου προθέματος",
   "DIALOG_MODIFY_PREFIX": "Τροποποίηση προθέματος",
   "DIALOG_CONFIRM_DELETE_ELEMENT": "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτό το στοιχείο;",
+  "FACET_HVD_CATEGORIES": "Κατηγορίες HVD",
+  "FACET_FORMATS": "Μορφές",
+  "FACET_LICENSES": "Άδειες",
+  "THEME_DARK": "Σκούρο",
+  "THEME_COSMIC": "Κοσμικό",
   "ERR": {
     "TITLE": "Σφάλμα",
     "MODAL": {

@@ -499,6 +499,11 @@
   "DIALOG_CREATE_NEW_PREFIX": "Crea nuovo prefisso",
   "DIALOG_MODIFY_PREFIX": "Modifica prefisso",
   "DIALOG_CONFIRM_DELETE_ELEMENT": "Sei sicuro di voler eliminare questo elemento?",
+  "FACET_HVD_CATEGORIES": "Categorie HVD",
+  "FACET_FORMATS": "Formati",
+  "FACET_LICENSES": "Licenze",
+  "THEME_DARK": "Scuro",
+  "THEME_COSMIC": "Cosmico",
   "ERR": {
     "TITLE": "Errore",
     "MODAL": {
