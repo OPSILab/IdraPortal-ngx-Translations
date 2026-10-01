@@ -130,6 +130,7 @@
   "REMOTE_CATALOGUE_ADMIN_BACK_BUTTON": "Πίσω",
   "REMOTE_CATALOGUE_ADMIN_REMOTE_CATALOGUE_LABEL": "Απομακρυσμένος κατάλογος:",
   "REMOTE_CATALOGUE_ADMIN_JSON_CATALOGUE_PLACEHOLDER": "Κατάλογος Json",
+  "REMOTE_CATALOGUE_ADMIN_LOCAL_FILE": "Τοπικό αρχείο",
   "CATALOGUES_NO_CATALOGUES_FOUND": "Δεν βρέθηκαν κατάλογοι",
   "CATALOGUES_SHOW_DATASETS": "Εμφάνιση συνόλων δεδομένων",
   "CATALOGUES_DATASETS": "Σύνολα δεδομένων",
