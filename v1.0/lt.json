@@ -116,6 +116,7 @@
   "CATALOGUE_LIST_DOWNLOAD_DUMP": "Atsisiųsti dump",
   "CATALOGUE_LIST_SEND_MQA_ANALYSIS": "Siųsti MQA analizę",
   "CATALOGUE_LIST_SYNCHRONIZE_CATALOGUE": "Sinchronizuoti katalogą",
+  "CATALOGUE_LIST_FULL_SYNCHRONIZE_CATALOGUE": "Visiškas katalogo sinchronizavimas (perrašo visus duomenų rinkinius)",
   "CATALOGUE_LIST_DELETE_CATALOGUE": "Ištrinti katalogą",
   "DATALETS_MANAGEMENT_TITLE": "Datalet valdymas",
   "DATALETS_MANAGEMENT_BACK_BUTTON": "Atgal",

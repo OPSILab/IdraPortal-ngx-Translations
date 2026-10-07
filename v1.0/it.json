@@ -116,6 +116,7 @@
   "CATALOGUE_LIST_DOWNLOAD_DUMP": "Scarica Dump",
   "CATALOGUE_LIST_SEND_MQA_ANALYSIS": "Invia analisi MQA",
   "CATALOGUE_LIST_SYNCHRONIZE_CATALOGUE": "Sincronizza catalogo",
+  "CATALOGUE_LIST_FULL_SYNCHRONIZE_CATALOGUE": "Sincronizzazione completa del catalogo (riscrive tutti i dataset)",
   "CATALOGUE_LIST_DELETE_CATALOGUE": "Elimina catalogo",
   "DATALETS_MANAGEMENT_TITLE": "Gestione dei datalet",
   "DATALETS_MANAGEMENT_BACK_BUTTON": "Indietro",

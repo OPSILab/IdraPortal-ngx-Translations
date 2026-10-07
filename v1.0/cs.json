@@ -116,6 +116,7 @@
   "CATALOGUE_LIST_DOWNLOAD_DUMP": "Stáhnout dump",
   "CATALOGUE_LIST_SEND_MQA_ANALYSIS": "Odeslat MQA analýzu",
   "CATALOGUE_LIST_SYNCHRONIZE_CATALOGUE": "Synchronizovat katalog",
+  "CATALOGUE_LIST_FULL_SYNCHRONIZE_CATALOGUE": "Úplná synchronizace katalogu (přepíše všechny datové sady)",
   "CATALOGUE_LIST_DELETE_CATALOGUE": "Smazat katalog",
   "DATALETS_MANAGEMENT_TITLE": "Správa dataletů",
   "DATALETS_MANAGEMENT_BACK_BUTTON": "Zpět",

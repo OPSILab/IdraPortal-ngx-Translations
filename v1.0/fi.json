@@ -116,6 +116,7 @@
   "CATALOGUE_LIST_DOWNLOAD_DUMP": "Lataa dump",
   "CATALOGUE_LIST_SEND_MQA_ANALYSIS": "Lähetä MQA-analyysi",
   "CATALOGUE_LIST_SYNCHRONIZE_CATALOGUE": "Synkronoi luettelo",
+  "CATALOGUE_LIST_FULL_SYNCHRONIZE_CATALOGUE": "Luettelon täysi synkronointi (kirjoittaa kaikki tietoaineistot uudelleen)",
   "CATALOGUE_LIST_DELETE_CATALOGUE": "Poista luettelo",
   "DATALETS_MANAGEMENT_TITLE": "Datalet-hallinta",
   "DATALETS_MANAGEMENT_BACK_BUTTON": "Takaisin",

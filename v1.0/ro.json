@@ -116,6 +116,7 @@
   "CATALOGUE_LIST_DOWNLOAD_DUMP": "Descarcă dump",
   "CATALOGUE_LIST_SEND_MQA_ANALYSIS": "Trimite analiză MQA",
   "CATALOGUE_LIST_SYNCHRONIZE_CATALOGUE": "Sincronizează catalog",
+  "CATALOGUE_LIST_FULL_SYNCHRONIZE_CATALOGUE": "Sincronizare completă a catalogului (rescrie toate seturile de date)",
   "CATALOGUE_LIST_DELETE_CATALOGUE": "Șterge catalog",
   "DATALETS_MANAGEMENT_TITLE": "Gestionare datalets",
   "DATALETS_MANAGEMENT_BACK_BUTTON": "Înapoi",
