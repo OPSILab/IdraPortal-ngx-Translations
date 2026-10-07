@@ -142,6 +142,7 @@
   "DATALET_NO_DATASET_FOUND": "Nessun datasets trovato!",
   "DATALET_SHOW_ALL": "Mostra tutto",
   "DATALET_SHOW_TOP_10": "Mostra i primi 10",
+  "DATALET_CLEAR_FILTERS": "Azzera filtri",
   "HOME_SEARCH_TITLE": "Cerca in",
   "HOME_DATASETS_FROM": "datasets da",
   "HOME_CATALOGUES": "cataloghi",

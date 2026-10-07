@@ -142,6 +142,7 @@
   "DATALET_NO_DATASET_FOUND": "Aineistoja ei löytynyt!",
   "DATALET_SHOW_ALL": "Näytä kaikki",
   "DATALET_SHOW_TOP_10": "Näytä top 10",
+  "DATALET_CLEAR_FILTERS": "Tyhjennä suodattimet",
   "HOME_SEARCH_TITLE": "Hae",
   "HOME_DATASETS_FROM": "aineistot kohteesta",
   "HOME_CATALOGUES": "luettelot",

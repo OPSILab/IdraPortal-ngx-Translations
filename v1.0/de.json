@@ -142,6 +142,7 @@
   "DATALET_NO_DATASET_FOUND": "Keine Datensätze gefunden!",
   "DATALET_SHOW_ALL": "Alle anzeigen",
   "DATALET_SHOW_TOP_10": "Top 10 anzeigen",
+  "DATALET_CLEAR_FILTERS": "Filter zurücksetzen",
   "HOME_SEARCH_TITLE": "Mehr suchen",
   "HOME_DATASETS_FROM": "Datensätze von",
   "HOME_CATALOGUES": "Kataloge",

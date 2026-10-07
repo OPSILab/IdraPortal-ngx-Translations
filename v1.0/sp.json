@@ -142,6 +142,7 @@
   "DATALET_NO_DATASET_FOUND": "¡No se encontraron conjuntos de datos!",
   "DATALET_SHOW_ALL": "Mostrar todo",
   "DATALET_SHOW_TOP_10": "Mostrar los 10 principales",
+  "DATALET_CLEAR_FILTERS": "Borrar filtros",
   "HOME_SEARCH_TITLE": "Buscar en",
   "HOME_DATASETS_FROM": "conjuntos de datos de",
   "HOME_CATALOGUES": "catálogos",

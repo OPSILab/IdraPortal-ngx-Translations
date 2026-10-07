@@ -142,6 +142,7 @@
   "DATALET_NO_DATASET_FOUND": "Žádné sady dat nenalezeny!",
   "DATALET_SHOW_ALL": "Zobrazit vše",
   "DATALET_SHOW_TOP_10": "Zobrazit top 10",
+  "DATALET_CLEAR_FILTERS": "Zrušit filtry",
   "HOME_SEARCH_TITLE": "Hledat v",
   "HOME_DATASETS_FROM": "sady dat z",
   "HOME_CATALOGUES": "katalogy",

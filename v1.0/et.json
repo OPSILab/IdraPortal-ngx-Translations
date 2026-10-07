@@ -142,6 +142,7 @@
   "DATALET_NO_DATASET_FOUND": "Ühtegi andmekogu ei leitud!",
   "DATALET_SHOW_ALL": "Kuva kõik",
   "DATALET_SHOW_TOP_10": "Kuva top 10",
+  "DATALET_CLEAR_FILTERS": "Tühjenda filtrid",
   "HOME_SEARCH_TITLE": "Otsi",
   "HOME_DATASETS_FROM": "andmekogud alates",
   "HOME_CATALOGUES": "kataloogid",
