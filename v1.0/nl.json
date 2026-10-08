@@ -115,7 +115,7 @@
   "CATALOGUE_LIST_REMOTE_CATALOGUE_LIST": "Lijst van remote catalogi",
   "CATALOGUE_LIST_DOWNLOAD_DUMP": "Dump downloaden",
   "CATALOGUE_LIST_SEND_MQA_ANALYSIS": "Verstuur MQA-analyse",
-  "CATALOGUE_LIST_SYNCHRONIZE_CATALOGUE": "Synchroniseer catalogus",
+  "CATALOGUE_LIST_SYNCHRONIZE_CATALOGUE": "Synchroniseer catalogus (alleen nieuwe of gewijzigde gegevens)",
   "CATALOGUE_LIST_FULL_SYNCHRONIZE_CATALOGUE": "Volledige catalogussynchronisatie (herschrijft alle datasets)",
   "CATALOGUE_LIST_DELETE_CATALOGUE": "Verwijder catalogus",
   "DATALETS_MANAGEMENT_TITLE": "Datalets beheer",

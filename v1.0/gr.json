@@ -115,7 +115,7 @@
   "CATALOGUE_LIST_REMOTE_CATALOGUE_LIST": "Λίστα απομακρυσμένων καταλόγων",
   "CATALOGUE_LIST_DOWNLOAD_DUMP": "Λήψη dump",
   "CATALOGUE_LIST_SEND_MQA_ANALYSIS": "Αποστολή ανάλυσης MQA",
-  "CATALOGUE_LIST_SYNCHRONIZE_CATALOGUE": "Συγχρονισμός καταλόγου",
+  "CATALOGUE_LIST_SYNCHRONIZE_CATALOGUE": "Συγχρονισμός καταλόγου (μόνο νέα ή τροποποιημένα δεδομένα)",
   "CATALOGUE_LIST_FULL_SYNCHRONIZE_CATALOGUE": "Πλήρης συγχρονισμός καταλόγου (επανεγγραφή όλων των συνόλων δεδομένων)",
   "CATALOGUE_LIST_DELETE_CATALOGUE": "Διαγραφή καταλόγου",
   "DATALETS_MANAGEMENT_TITLE": "Διαχείριση datalets",

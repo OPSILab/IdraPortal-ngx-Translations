@@ -115,7 +115,7 @@
   "CATALOGUE_LIST_REMOTE_CATALOGUE_LIST": "Kaugkataloogide nimekiri",
   "CATALOGUE_LIST_DOWNLOAD_DUMP": "Laadi dump alla",
   "CATALOGUE_LIST_SEND_MQA_ANALYSIS": "Saada MQA analüüs",
-  "CATALOGUE_LIST_SYNCHRONIZE_CATALOGUE": "Sünkroniseeri kataloog",
+  "CATALOGUE_LIST_SYNCHRONIZE_CATALOGUE": "Sünkroniseeri kataloog (ainult uued või muudetud andmed)",
   "CATALOGUE_LIST_FULL_SYNCHRONIZE_CATALOGUE": "Kataloogi täielik sünkroniseerimine (kirjutab kõik andmestikud üle)",
   "CATALOGUE_LIST_DELETE_CATALOGUE": "Kustuta kataloog",
   "DATALETS_MANAGEMENT_TITLE": "Dataletide haldus",

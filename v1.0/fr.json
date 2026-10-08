@@ -115,7 +115,7 @@
   "CATALOGUE_LIST_REMOTE_CATALOGUE_LIST": "Liste des catalogues distants",
   "CATALOGUE_LIST_DOWNLOAD_DUMP": "Télécharger le dump",
   "CATALOGUE_LIST_SEND_MQA_ANALYSIS": "Envoyer l'analyse MQA",
-  "CATALOGUE_LIST_SYNCHRONIZE_CATALOGUE": "Synchroniser le catalogue",
+  "CATALOGUE_LIST_SYNCHRONIZE_CATALOGUE": "Synchroniser le catalogue (données nouvelles ou modifiées uniquement)",
   "CATALOGUE_LIST_FULL_SYNCHRONIZE_CATALOGUE": "Synchronisation complète du catalogue (réécrit tous les jeux de données)",
   "CATALOGUE_LIST_DELETE_CATALOGUE": "Supprimer le catalogue",
   "DATALETS_MANAGEMENT_TITLE": "Gestion des datalets",

@@ -115,7 +115,7 @@
   "CATALOGUE_LIST_REMOTE_CATALOGUE_LIST": "Liste over fjernkataloger",
   "CATALOGUE_LIST_DOWNLOAD_DUMP": "Download dump",
   "CATALOGUE_LIST_SEND_MQA_ANALYSIS": "Send MQA-analyse",
-  "CATALOGUE_LIST_SYNCHRONIZE_CATALOGUE": "Synkroniser katalog",
+  "CATALOGUE_LIST_SYNCHRONIZE_CATALOGUE": "Synkroniser katalog (kun nye eller ændrede data)",
   "CATALOGUE_LIST_FULL_SYNCHRONIZE_CATALOGUE": "Fuld synkronisering af katalog (genskriver alle datasæt)",
   "CATALOGUE_LIST_DELETE_CATALOGUE": "Slet katalog",
   "DATALETS_MANAGEMENT_TITLE": "Datalets-administration",
