@@ -118,6 +118,7 @@
   "CATALOGUE_LIST_SYNCHRONIZE_CATALOGUE": "Sünkroniseeri kataloog (ainult uued või muudetud andmed)",
   "CATALOGUE_LIST_FULL_SYNCHRONIZE_CATALOGUE": "Kataloogi täielik sünkroniseerimine (kirjutab kõik andmestikud üle)",
   "CATALOGUE_LIST_DELETE_CATALOGUE": "Kustuta kataloog",
+  "CATALOGUE_LIST_DELETE_CATALOGUE_MESSAGE": "Kas eemaldada see kataloog ja selle andmekogumid?",
   "DATALETS_MANAGEMENT_TITLE": "Dataletide haldus",
   "DATALETS_MANAGEMENT_BACK_BUTTON": "Tagasi",
   "DATALET_TITLE": "Nimi",

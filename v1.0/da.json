@@ -118,6 +118,7 @@
   "CATALOGUE_LIST_SYNCHRONIZE_CATALOGUE": "Synkroniser katalog (kun nye eller ændrede data)",
   "CATALOGUE_LIST_FULL_SYNCHRONIZE_CATALOGUE": "Fuld synkronisering af katalog (genskriver alle datasæt)",
   "CATALOGUE_LIST_DELETE_CATALOGUE": "Slet katalog",
+  "CATALOGUE_LIST_DELETE_CATALOGUE_MESSAGE": "Fjern dette katalog og dets datasæt?",
   "DATALETS_MANAGEMENT_TITLE": "Datalets-administration",
   "DATALETS_MANAGEMENT_BACK_BUTTON": "Tilbage",
   "DATALET_TITLE": "Navn",

@@ -118,6 +118,7 @@
   "CATALOGUE_LIST_SYNCHRONIZE_CATALOGUE": "Sincronizza catalogo (solo dati nuovi o modificati)",
   "CATALOGUE_LIST_FULL_SYNCHRONIZE_CATALOGUE": "Sincronizzazione completa del catalogo (riscrive tutti i dataset)",
   "CATALOGUE_LIST_DELETE_CATALOGUE": "Elimina catalogo",
+  "CATALOGUE_LIST_DELETE_CATALOGUE_MESSAGE": "Rimuovere questo catalogo e i suoi dataset?",
   "DATALETS_MANAGEMENT_TITLE": "Gestione dei datalet",
   "DATALETS_MANAGEMENT_BACK_BUTTON": "Indietro",
   "DATALET_TITLE": "Nome",

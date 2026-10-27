@@ -118,6 +118,7 @@
   "CATALOGUE_LIST_SYNCHRONIZE_CATALOGUE": "Synkronoi luettelo (vain uudet tai muuttuneet tiedot)",
   "CATALOGUE_LIST_FULL_SYNCHRONIZE_CATALOGUE": "Luettelon täysi synkronointi (kirjoittaa kaikki tietoaineistot uudelleen)",
   "CATALOGUE_LIST_DELETE_CATALOGUE": "Poista luettelo",
+  "CATALOGUE_LIST_DELETE_CATALOGUE_MESSAGE": "Poistetaanko tämä luettelo ja sen tietoaineistot?",
   "DATALETS_MANAGEMENT_TITLE": "Datalet-hallinta",
   "DATALETS_MANAGEMENT_BACK_BUTTON": "Takaisin",
   "DATALET_TITLE": "Nimi",

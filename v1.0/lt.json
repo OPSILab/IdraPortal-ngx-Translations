@@ -118,6 +118,7 @@
   "CATALOGUE_LIST_SYNCHRONIZE_CATALOGUE": "Sinchronizuoti katalogą (tik nauji arba pakeisti duomenys)",
   "CATALOGUE_LIST_FULL_SYNCHRONIZE_CATALOGUE": "Visiškas katalogo sinchronizavimas (perrašo visus duomenų rinkinius)",
   "CATALOGUE_LIST_DELETE_CATALOGUE": "Ištrinti katalogą",
+  "CATALOGUE_LIST_DELETE_CATALOGUE_MESSAGE": "Pašalinti šį katalogą ir jo duomenų rinkinius?",
   "DATALETS_MANAGEMENT_TITLE": "Datalet valdymas",
   "DATALETS_MANAGEMENT_BACK_BUTTON": "Atgal",
   "DATALET_TITLE": "Pavadinimas",

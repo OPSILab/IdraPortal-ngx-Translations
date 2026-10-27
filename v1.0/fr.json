@@ -118,6 +118,7 @@
   "CATALOGUE_LIST_SYNCHRONIZE_CATALOGUE": "Synchroniser le catalogue (données nouvelles ou modifiées uniquement)",
   "CATALOGUE_LIST_FULL_SYNCHRONIZE_CATALOGUE": "Synchronisation complète du catalogue (réécrit tous les jeux de données)",
   "CATALOGUE_LIST_DELETE_CATALOGUE": "Supprimer le catalogue",
+  "CATALOGUE_LIST_DELETE_CATALOGUE_MESSAGE": "Supprimer ce catalogue et ses jeux de données ?",
   "DATALETS_MANAGEMENT_TITLE": "Gestion des datalets",
   "DATALETS_MANAGEMENT_BACK_BUTTON": "Retour",
   "DATALET_TITLE": "Nom",

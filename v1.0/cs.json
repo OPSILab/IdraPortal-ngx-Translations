@@ -118,6 +118,7 @@
   "CATALOGUE_LIST_SYNCHRONIZE_CATALOGUE": "Synchronizovat katalog (pouze nová nebo změněná data)",
   "CATALOGUE_LIST_FULL_SYNCHRONIZE_CATALOGUE": "Úplná synchronizace katalogu (přepíše všechny datové sady)",
   "CATALOGUE_LIST_DELETE_CATALOGUE": "Smazat katalog",
+  "CATALOGUE_LIST_DELETE_CATALOGUE_MESSAGE": "Odstranit tento katalog a jeho datové sady?",
   "DATALETS_MANAGEMENT_TITLE": "Správa dataletů",
   "DATALETS_MANAGEMENT_BACK_BUTTON": "Zpět",
   "DATALET_TITLE": "Název",

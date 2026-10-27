@@ -118,6 +118,7 @@
   "CATALOGUE_LIST_SYNCHRONIZE_CATALOGUE": "Sincronizează catalog (doar date noi sau modificate)",
   "CATALOGUE_LIST_FULL_SYNCHRONIZE_CATALOGUE": "Sincronizare completă a catalogului (rescrie toate seturile de date)",
   "CATALOGUE_LIST_DELETE_CATALOGUE": "Șterge catalog",
+  "CATALOGUE_LIST_DELETE_CATALOGUE_MESSAGE": "Eliminați acest catalog și seturile sale de date?",
   "DATALETS_MANAGEMENT_TITLE": "Gestionare datalets",
   "DATALETS_MANAGEMENT_BACK_BUTTON": "Înapoi",
   "DATALET_TITLE": "Nume",
